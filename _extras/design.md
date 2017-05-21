@@ -3,4 +3,26 @@ layout: page
 title: Design
 permalink: /design/
 ---
-Hello, World!
+## Conceptual design
+
+* Who the lesson is for, what its overall goals are, and how long it is going to be?
+  * Assumptions and major outcomes
+  * Summative assessments
+  * One per half day of lesson time
+* Formative assessment
+  * One or two line description of each - spaced at 15 min intervals
+* Who to consult for feedback
+* Second pass to flesh out above content
+* More feedback
+* Write lesson content
+
+## What Makes a Good Formative Assessment
+
+The two purposes of formative assessment are (a) to help learners prepare for the summative assessment and (b) to tell them and their instructor during the lesson whether they’re making progress (and if not, what obstacles they have hit). If lesson episodes are 10-15 minutes long, then formative assessments should take no more than 5 minutes. This means that formative assessments should be:
+
+* multiple choice questions,
+* Parsons Problems (in which the learner is given the parts of the solution in scrambled order and has to put them in the right order),
+* debugging exercises (in which the learner is given a few lines of code that do the wrong thing and asked to find and fix the bug), or
+* extensions of examples show in the lecture.
+
+Good formative assessments do not require learners to write lots of code from scratch: it takes too long, there are usually too many possible right solutions to discuss in just a couple of minutes, and many novices find a blank page (or screen) intimidating.
