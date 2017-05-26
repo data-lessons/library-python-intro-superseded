@@ -28,3 +28,4 @@ Why we recommend Python 3.
 * The interactive interpretor/iPython
 * Running scripts from the command line
 * Jupyter notebooks
+* Spyder IDE - recommended
