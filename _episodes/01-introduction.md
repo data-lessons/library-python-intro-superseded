@@ -18,6 +18,12 @@ keypoints:
 
 Why we recommend Python 3.
 
+## The structure of Python
+
+* Builtin functions
+* The standard library
+* 3rd party modules and PyPI
+
 ## Getting help in Python
 
 * The help() function
