@@ -26,3 +26,18 @@ The two purposes of formative assessment are (a) to help learners prepare for th
 * extensions of examples show in the lecture.
 
 Good formative assessments do not require learners to write lots of code from scratch: it takes too long, there are usually too many possible right solutions to discuss in just a couple of minutes, and many novices find a blank page (or screen) intimidating.
+
+## Scenario ideas
+
+* Working with an api
+* International Image Interoperability Framework: http://iiif.io/api/image/2.1/
+* Trove: http://help.nla.gov.au/trove/building-with-trove/api 
+* Link checking - a script to check for broken links in catalogue records - something I’ve done and it worked well and introduces some basic concepts.
+* Web scraping
+  * ScraperWiki
+  * Beautiful Soup
+* Twitter bot
+* Website (Flask)
+* Something with Pandas
+* Bulk email with mailgun (mailgun.com)
+* AustLii downloader
