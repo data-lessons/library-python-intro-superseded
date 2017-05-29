@@ -13,7 +13,8 @@ What needs to be done to get this lesson complete:
 - Review the [existing draft lesson|https://data-lessons.github.io/library-python/] and determine what can be used from that lesson
 - Move that stuff to this lesson
 - Fill in the gaps
-  - Basing this lesson on seven episodes which explore: single things (variables); groups of things (lists etc); operators; choices (if/else); repeating (loops); chunks (functions/objects)
+  - Basing this lesson on seven episodes which explore: single things (variables); groups of things (lists etc); operators; choices (if/else); repeating (loops); chunks (functions/objects); combining chunks (function composition)
+  - Need to determine if this is too much for one lesson
 - Develop objectives (see _extras\desgin.md)
 - Develop sumative assessments (see _extras\desgin.md)
 - Develop formative assessments (see _extras\desgin.md) 
