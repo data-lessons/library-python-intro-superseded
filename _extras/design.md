@@ -46,15 +46,15 @@ Good formative assessments do not require learners to write lots of code from sc
 
 * Audience
 * Constraints
- * One full day 09:00-16:30
-  * 06:15 class time
-  * 0:45 lunch
-  * 0:30 total for two coffee breaks
+  * One full day 09:00-16:30
+    * 06:15 class time
+    * 0:45 lunch
+    * 0:30 total for two coffee breaks
 * Motivating example
 * Data - do we need any?
 * Challenges will mostly not be “write this code from scratch”
- * Want lots of short exercises that can reliably be finished in allotted time
- * So use MCQs, fill-in-the-blanks, Parsons Problems, “tweak this code”, etc.
+  * Want lots of short exercises that can reliably be finished in allotted time
+  * So use MCQs, fill-in-the-blanks, Parsons Problems, “tweak this code”, etc.
 
 ## Stage 2: Desired Results
 
