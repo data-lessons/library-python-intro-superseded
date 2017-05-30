@@ -10,7 +10,7 @@ Details of what Library Carpentry id doing for the sprint are here: http://pad.s
 
 What needs to be done to get this lesson complete:
 
-- Review the [existing draft lesson|https://data-lessons.github.io/library-python/] and determine what can be used from that lesson
+- Review the [existing draft lesson](https://data-lessons.github.io/library-python/) and determine what can be used from that lesson
 - Move that stuff to this lesson
 - Fill in the gaps
   - Basing this lesson on seven episodes which explore: single things (variables); groups of things (lists etc); operators; choices (if/else); repeating (loops); chunks (functions/objects); combining chunks (function composition)
@@ -22,6 +22,7 @@ What needs to be done to get this lesson complete:
 
 ## Other useful stuff
 
+- Etherpad for the lesson redevelopment: http://pad.software-carpentry.org/lc-new-python
 - LC gitter room: https://gitter.im/weaverbel/LibraryCarpentry?at=591e2ec52b926f8a676d0f98
 - Software Carpentry example lesson: https://github.com/swcarpentry/lesson-example
 - Suggested inspiration: http://swcarpentry.github.io/python-novice-gapminder/ 
