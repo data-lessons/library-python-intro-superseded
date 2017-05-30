@@ -41,3 +41,38 @@ Good formative assessments do not require learners to write lots of code from sc
 * Something with Pandas
 * Bulk email with mailgun (mailgun.com)
 * AustLii downloader
+
+## Stage 1: Assumptions
+
+* Audience
+* Constraints
+ * One full day 09:00-16:30
+  * 06:15 class time
+  * 0:45 lunch
+  * 0:30 total for two coffee breaks
+* Motivating example
+* Data - do we need any?
+* Challenges will mostly not be “write this code from scratch”
+ * Want lots of short exercises that can reliably be finished in allotted time
+ * So use MCQs, fill-in-the-blanks, Parsons Problems, “tweak this code”, etc.
+
+## Stage 2: Desired Results
+
+### Questions
+
+How do I...
+
+### Skills
+
+I can...
+
+### Concepts
+
+I know that...
+
+## Stage 3: Learning Plan
+
+### Summative Assessment
+
+* Midpoint
+* Final
