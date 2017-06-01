@@ -31,7 +31,7 @@ Why we recommend Python 3.
 
 ## Ways of running Python
 
-* The interactive interpretor/iPython
+* The interactive interpreter/iPython
 * Running scripts from the command line
 * Jupyter notebooks
 * Spyder IDE - recommended
