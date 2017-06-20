@@ -23,7 +23,7 @@ What needs to be done to get this lesson complete:
 ## Other useful stuff
 
 - Etherpad for the lesson redevelopment: http://pad.software-carpentry.org/lc-new-python
-- LC gitter room: https://gitter.im/weaverbel/LibraryCarpentry?at=591e2ec52b926f8a676d0f98
+- LC gitter room: https://gitter.im/LibraryCarpentry/
 - Software Carpentry example lesson: https://github.com/swcarpentry/lesson-example
 - Suggested inspiration: http://swcarpentry.github.io/python-novice-gapminder/ 
 - Initial planning doc: https://docs.google.com/document/d/1Ov91r00zDwo2PFoA3xtx7Vx6X9PCtwoDTXOFO4zpUQk/edit?usp=sharing
